@@ -899,15 +899,4 @@ O enunciado define os requisitos funcionais, mas deixa algumas escolhas técnica
 
 > **Nota:** não preencher estas decisões com valores presumidos. Devem corresponder às escolhas reais do grupo e ser documentadas também em `INSTRUCOES.txt` e no relatório, quando aplicável.
 
----
-
-## Informação do grupo
-
-| Campo | Preencher |
-|---|---|
-| Grupo | A definir |
-| Elementos | A definir |
-| Repositório | A definir |
-| Data da última atualização | A definir |
-
 **Prazo oficial:** 14 de janeiro de 2027, às 23h59 (hora de Portugal continental).
