@@ -1,11 +1,5 @@
 # Guião passo a passo — Trabalho Prático de LTC 2026/2027
 
-> **Projeto:** Sistema de Gestão de Presenças de Docentes  
-> **Unidade curricular:** Linguagens e Teoria da Computação  
-> **Entrega:** 14 de janeiro de 2027, até às 23h59 (hora de Portugal continental)  
-> **Versão deste guião:** 9 de novembro de 2026  
-> **Ambiente assumido:** Windows 10/11, 64 bits.
-
 Este documento foi preparado para orientar o desenvolvimento desde um computador sem ferramentas instaladas até à entrega do ZIP e à defesa. Segue o enunciado do trabalho como referência. As escolhas de versões, programas auxiliares, organização das pastas e sequência operacional identificadas como **recomendação** são sugestões práticas para facilitar o desenvolvimento; não são requisitos adicionais impostos pelo docente.
 
 ---
